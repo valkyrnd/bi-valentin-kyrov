@@ -1,0 +1,30 @@
+Columns:
+  SKUAdditionalInfo_o2o/ID_bi_BusinessUnit$:
+    Title_en: Бизнес-юнит
+    Title_ru: Бизнес-юнит
+  ID:
+    Position: 0
+  ID_mapping_DataSource$:
+    Position: 1
+  ID_CompanySource$:
+    Position: 2
+  ID_mapping_MDT$:
+    Position: 3
+  ID_SKUType$:
+    Position: 4
+  ID_status_Status$:
+    Position: 5
+  Code:
+    Position: 6
+  Name:
+    Position: 7
+  ID_Brand$:
+    Position: 8
+  UOMBase/ID_UOM$:
+    Position: 9
+  UOMBase/EAN:
+    Position: 10
+  CodeManufacturer:
+    Position: 11
+  GTIN:
+    Position: 12
