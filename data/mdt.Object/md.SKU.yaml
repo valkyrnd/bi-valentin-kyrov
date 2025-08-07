@@ -1,0 +1,10 @@
+Fields:
+  SKUAdditionalInfo_o2o:
+    ID_ObjectFieldKind: o2o
+    ID_RefObject: md_bi.SKUAdditionalInfo
+    ID_RefObjectField: ID
+    Nullable: True
+    SortOrder: 18
+    Title_en: Доп.информация о SKU
+    Title_ru: Доп.информация о SKU
+
